@@ -1,12 +1,23 @@
 .title-h1{
     background-color: rgb(165,42,42);
     color: rgb(255,255,255);
+    text-align:center;
 }
 
 body{
     margin: 40px, 0;
     font-size: 18px;
 }
+
+.car-table{
+    margin: 0 auto;  
+}
+
+
+.pre-img{
+    width:100%;
+}
+
 
 .car-table tr td{
     border-style: dashed
@@ -16,4 +27,5 @@ footer{
     background-color: rgb(0,0,0);
     color: rgb(255,255,255);
     font-size: 20px;
+    text-align: center;
 }
